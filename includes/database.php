@@ -3,7 +3,7 @@
  * @project:
  *      SA:MP Dynamic Signatures
  * @file:
- *		database.php
+ *	database.php
  * @author:
  *      Djole
  * @version:
