@@ -35,9 +35,9 @@ $aGlobalConfig = array
 	/* Edit this */
 	"mysql" => array
 	(
-		"host" => "",
-		"port" => 3306,
-		"user" => "",
+		"host" => 31.220.24.112,
+		"port" => 7777,
+		"user" => Mortalis,
 		"pass" => "",
 		"name" => ""
 	),
